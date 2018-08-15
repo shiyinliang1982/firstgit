@@ -1,6 +1,6 @@
 class Test{
 	String name ="王五"
 	public static viod main{
-		System.sout.println"Hello"
+		System.sout.println"master分支"
 	}
 }
